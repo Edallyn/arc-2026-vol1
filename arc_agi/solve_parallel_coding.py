@@ -1,8 +1,7 @@
 import asyncio
 
 import numpy as np
-
-from arc_agi.solve_coding import solve_coding
+from arc_agi.solve_coding_debug import solve_coding
 from arc_agi.types import ARCAGIResult, ExpertConfig
 from arc_agi.utils import canonical_test_key
 

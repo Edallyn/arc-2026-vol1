@@ -1,4 +1,17 @@
+__pycache__/
+.venv/
+.vscode/
 *.pyc
+*.pkl
+*.log
+.env
+env/
+.idea/
+*.egg-info/
+.pytest_cache/
+data/
+# If you later use Git LFS for large files, track patterns instead of ignoring
+# *.json*.pyc
 .env
 .DS_Store
 output/
